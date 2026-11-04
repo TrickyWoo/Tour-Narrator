@@ -1,0 +1,9 @@
+## Interface: 120105
+## Title: Tour Narrator
+## Author: PxL8
+## Version: 1.0
+## Notes: Write RP tour scripts and send them to chat line by line, using buttons, keybinds or macros.
+## IconTexture: Interface\AddOns\TourNarrator\Media\TN_Logo.tga
+## SavedVariables: TourNarratorDB
+
+TourNarrator.lua

@@ -1,0 +1,17 @@
+<Bindings>
+    <Binding name="TOURNARRATOR_NEXT" header="TOURNARRATOR" category="TourNarrator">
+        TourNarrator.SendNext()
+    </Binding>
+    <Binding name="TOURNARRATOR_SKIP" category="TourNarrator">
+        TourNarrator.Skip()
+    </Binding>
+    <Binding name="TOURNARRATOR_BACK" category="TourNarrator">
+        TourNarrator.Back()
+    </Binding>
+    <Binding name="TOURNARRATOR_RESET" category="TourNarrator">
+        TourNarrator.Reset()
+    </Binding>
+    <Binding name="TOURNARRATOR_PRESENTER" category="TourNarrator">
+        SlashCmdList["TOURNARRATORPRESENTER"]()
+    </Binding>
+</Bindings>
