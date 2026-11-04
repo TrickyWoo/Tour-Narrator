@@ -54,9 +54,9 @@ Start a line with a prefix to change how it is sent. The chat type stays active 
 Example:
 
 ```
-Welcome, everyone, to the Grand Tour of Stormwind!
+/s Welcome, everyone, to the Grand Tour of Stormwind!
 /e gestures towards the cathedral.
-Over there you can see the Cathedral of Light.
+/s Over there you can see the Cathedral of Light.
 /s Shall we move on?
 ```
 
@@ -71,7 +71,7 @@ Standard emotes such as `/bow`, `/sit`, `/laugh` and `/dance` work too. Put each
 /wave
 /e gestures towards the market stalls.
 /bow Thrall
-Please, follow me.
+/s Please, follow me.
 ```
 
 - Every emote the game knows about is supported, including its short forms (for example `/lol` as well as `/laugh`).
@@ -89,10 +89,10 @@ A line that starts with `##` is a comment. It is never sent to chat, and it does
 
 ```
 ## Stand at the fountain
-Welcome to the Trade District!
+/s Welcome to the Trade District!
 /wave
 ## Walk to the bank steps
-Over here is the bank.
+/s Over here is the bank.
 ```
 
 The Presenter shows the most recent comment above the queued line as a green **DIRECTION:** line. It stays on screen until the next comment replaces it. In the example, you would see "Stand at the fountain" for the first two lines, then "Walk to the bank steps" for the last. When the script is finished, the final comment stays on screen.
