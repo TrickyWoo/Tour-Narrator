@@ -156,3 +156,9 @@ WoW cuts off chat messages over 250 characters. Tour Narrator warns you in red i
 ## Reporting a problem
 
 Please turn on error messages first by typing `/console scriptErrors 1`, then repeat what you were doing. If an error pops up, copy the full text and send it along with a description of what you clicked. Say which script you were using and whether it had any prefix lines or very long lines.
+
+## License
+
+[![License: CC BY-NC-SA 4.0](https://shields.io)](https://creativecommons.org)
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org).
